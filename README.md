@@ -1,4 +1,6 @@
 # CryptoAlgorithm
+Consola rezultat:
+
 Introduceți valoarea hexazecimală de 16 caractere: 
 123456abcd098765
 Introduceți cheia ca valoare hexazecimală de 16 caractere :
